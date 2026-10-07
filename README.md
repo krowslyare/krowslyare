@@ -2,7 +2,7 @@
 
 I'm a product engineer in Lima. I like building things, trying out ideas, and using AI along the way.
 
-Kurogrid is my personal software studio, where I work on custom software and my own experiments. Some of that work lives in private repositories, so my [portfolio](https://hidekitoyama.site) gives a better picture of what I've been making.
+Kurogrid is my personal software studio, where I work on custom software and my own experiments. Most of that work lives in private repositories, so my [portfolio](https://hidekitoyama.site) gives a better picture of what I've been making.
 
 ## A few things you can explore
 

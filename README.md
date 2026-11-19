@@ -1,21 +1,17 @@
-# Hi, I'm Hideki
+# Hey, I’m Hideki
 
-I'm a product engineer in Lima. I like building things, trying out ideas, and using AI along the way.
+Whenever I get an idea in my head, I usually just build it and see what happens (shoutout to AI).
 
-Kurogrid is my personal software studio, where I work on custom software and my own experiments. Most of that work lives in private repositories, so my [portfolio](https://hidekitoyama.site) gives a better picture of what I've been making.
+Most of my stuff is in private repos. It’s usually an app I want to put out or something I built at Kurogrid. There’s more on [my site](https://hidekitoyama.site), though I forget to update it sometimes lol.
 
-## A few things you can explore
+## Some stuff I’ve built
 
-- **[Outreach](https://github.com/krowslyare/outreach)**  
-  A local tool for reviewing potential clients and managing WhatsApp conversations, with human review before contact. A prototype I'm still refining.
+- **[Mobile UI Loop](https://github.com/krowslyare/mobile-ui-loop)** — I built this to grab screenshots from my apps and try out new looks with AI. I can see the old and new screens side by side.
+- **[Michiwi](https://michiwi.com)** — A little cat-matching game I built for my girlfriend.
+- **[Outreach](https://github.com/krowslyare/outreach)** — A local tool for reviewing leads before reaching out and keeping track of WhatsApp conversations. Still tinkering with this one.
+- **[Surtario](https://github.com/krowslyare/surtario)** — experimenting with stuff. tokenmaxxing. Started at a hackathon and turned into a sandbox for AI agents, web research, and ingredient sourcing.
+- **[WebMCP / Mimo](https://github.com/krowslyare/kurogrid_webmcp)** — I made a fake vet clinic to see how an AI agent could use browser tools to find services and help set up appointments.
 
-- **[Surtario](https://github.com/krowslyare/surtario)**  
-  experimenting with stuff. tokenmaxxing.  
-  Started for a hackathon; now a sandbox for AI agents, web research, and ingredient sourcing.
+In my free time, you’ll probably find me playing LoL or TFT. Keeping it casual for the sake of my sanity.
 
-- **[WebMCP / Mimo](https://github.com/krowslyare/kurogrid_webmcp)**  
-  A code sandbox built around a fictional veterinary clinic, exploring how AI agents can use browser tools to find services and prepare appointments.
-
-In my free time, you'll probably find me playing LoL. Keeping it casual for the sake of my sanity.
-
-[Portfolio](https://hidekitoyama.site) · [LinkedIn](https://www.linkedin.com/in/hideki-toyama/)
+[Portfolio](https://hidekitoyama.site) · [LinkedIn](https://www.linkedin.com/in/hideki-toyama/) (quiet over there for now)
